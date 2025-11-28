@@ -1,0 +1,28 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "Aloe",
+      "image": "./images/aloe.jpg",
+      "price": 15.99
+    },
+    {
+      "id": 2,
+      "name": "ZZ Plant",
+      "image": "./images/zz-plant.jpg",
+      "price": 25.98
+    },
+    {
+      "id": 3,
+      "name": "Pothos",
+      "image": "./images/pothos.jpg",
+      "price": 12.5
+    },
+    {
+      "id": 4,
+      "name": "Snake Plant",
+      "image": "./images/snake-plant.jpg",
+      "price": 18.75
+    }
+  ]
+}
